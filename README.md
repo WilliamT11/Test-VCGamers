@@ -2,7 +2,6 @@
 
 <h3>Test Case:<h3></h3>
 1. Login
-
     | Case | Expected | Actual |
     | ---  | --- | --- |
     | Verify Login with no input | Show Error Message |  Show Error Message |
